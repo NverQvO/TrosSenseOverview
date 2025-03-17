@@ -1,0 +1,205 @@
+TrosSense Update Log
+2024-10-18-TrosSense-B1
+
+[+] Add AimBot
+[+] Add 'Range','Max Rotation Speed','Min Rotation Speed' modes to Aim Mode of AimBot 
+[+] Add HitBox
+[+] Add 'SizeX','SizeY','Range' Modes to HitBox Mode of HitBox
+[+] Add KillAura
+[+] Add 'Max CPS','Min CPS','No Cps Limit','Range','Rotation Mode','Max Rotation Speed','Min Rotation Speed','MoveFix','Switch Mode','Max Switch Delay','Min Switch Delay','Sort Mode','Swing' Modes to KillAura Mode of KillAura
+[+] Add 'Silent','None','Legit' to Rotation Mode of KillAura
+[+] Add 'Switch','Single','Multi' to Switch Mode of KillAura
+[+] Add 'Distance','Direction','Health','Armor' to Sort Mode of KillAura
+[+] Add Team
+[+] Add 'BMW SW','Armor Color' to Team Mode of Team
+[+] Add Velocity
+[+] Add 'Vertical','Horizontal','OFF Ground' to Velocity Mode of Velocity
+[+] Add AntiBot
+[+] Add 'BMW' to AntiBot
+[+] Add Fly
+[+] Add 'Vertcal Speed','Horizontal Speed','Fly Mode' to Fly Mode of Fly
+[+] Add 'Vanilla','Blink' to Fly Mode of Fly
+[+] Add KeepSprint
+[+] Add 'omni' to KeepSprint Mode
+[+] Add NoWeb
+[+] Add Speed
+[+] Add 'Speed' to Speed Mode
+[+] Add TargetStrafe
+[+] Add 'Radius Range','LockBack' to TargetStrafe Mode
+[+] Add ChestAura 
+[+] Add 'Range','Rotation Mode','Max Rotation Speed','Min Rotation Speed','Open Check' to Aura Mode of ChestAura
+[+] Add ChestStealer
+[+] Add 'Max Delay','Min Delay','Close Delay','Open Delay','lgnore Trash','Select Best' to Stealer Mode of ChestStealer
+[+] Add InvManager
+[+] Add 'Sword Slot','Block Slot','Pickaxe Slot','Axe Slot','Shovel Slot','Food Slot','EnderPearl Slot','Bow Slot','OFF hand Item','Open Mode','Max Delay','Min Delay' to InvManager
+[+] Add 'None','Shield','Totem' to Offhand Item Mode of InvManager 
+[+] Add 'Simulate','Only Open' to Open Mode of InvManager
+[+] Add RemoteShop
+[+] Add Scaffold
+[+] Add 'Select Mode','Rotation','Max Rotation Speed','Min Rotation Speed','AirPlace','Scaffold Mode' to Scaffold 
+[+] Add 'Spoof','None','Auto' to Select Mode of Scaffold
+[+] Add 'Normal','Tower','Telly','BMW Fast' to Scaffold Mode of Scaffold
+[+] Add Timer
+[+] Add 'Timer Tick' to Timer
+[+] Add AntiVoid 
+[+] Add 'AntiVoid Mode','Blink Second' to AntiVoid
+[+] Add 'Blink','Spoof','AirPlace' to AntiVoid Mode of AntiVoid
+[+] Add AutoTool
+[+] Add 'Spoof' to AutoTool
+[+] Add InvMove
+[+] Add NoFall
+[+] Add NoSlow
+[+] Add Fucker  
+[+] Add 'Range','Surround' to Fucker
+[+] Add Language
+[+] Add 'Chinese' to Language 
+[+] Add ArrayList
+[+] Add 'Text Mode','Color Sparation','Color Speed','
+[+] Add ArrayList
+[+] Add 'Text Mode','Color Sparation','Color Speed','Text Shadow','Text Height','Rectangle','Background','Color','Background Alpha','Animation' to ArrayList Mode
+[+] Add 'Graduebt','Statuc','Rainbow' to Text Mode of ArrayList
+[+] Add 'None','Top','Left','Right','Outline' to Rectangle Mode of ArrayList
+[+] Add 'None','Custom','Same To Text' to Background Mode of ArrayList
+[+] Add 'None','Scale in','Move in' to Animation Mode of ArrayList
+
+2024-10-20
+[※] Fix ClickGui 
+[+] Recode Hwid Algorithm
+[+] Recode version compatible NetEase 3.05
+
+2024-11-02-TrosSense-B4
+[+] Add GodMode,Bypass Not Hit
+[+] Add InfiniteAura,Allow Move
+[+] Add 'HYT' Modes to Fucker
+[+] Add MoveBypass,Ignore Stuck in Hyt AntiCheat
+[+] Add 'HYT' Modes to RemoteShop
+[+] Add 'HYT' Modes to Fly
+
+2024-11-04-TrosSense-B5
+[+] Migration Server 
+[+] Add AntiKick,Bypass,Hyt
+
+2024-12-07-TrosSense-B6
+[+]Update Netease 3.15
+[+]Bypass 3.15 Check File
+[+]Add KOOKBot
+[+]Add Cookies Login (Free)
+[+]Add .help to KOOKBot
+[+]Add .status to KOOKBot
+[+]Add .register to KOOKBot
+[+]Add .hwid to KOOKBot
+[+]Add .capes to KOOKBot
+[+]Add .recharge to KOOKBot
+[+]Add .shop to KOOKBot
+[+]Add .download to KOOKBot
+[+]Add KillESP
+[+]Add Animations to KillAura
+[+]Add ItemPhysics
+[+]Add Spin to ItemPhysics
+[+]Add 2DESP
+[+]Add health to 2DESP
+[+]Add TargetHud
+[+]Add Follow player to TargetHUD
+[+]Add TargetESP
+[+]Add GhostBlaze to TargetESP
+[+]Add Trail
+[+]Add Trail to Trails
+[+]Add None to Trails
+[+]Add Stars to Trails
+[+]Add Hearts to Trails
+[+]Add Bloom to Trails
+[+]Add JumpCircle
+[+]Add Portal to JumpCircle
+[+]Add EaseOut to JumpCircle
+[+]Add RotateSpeed to JumpCircle
+[+]Add CircleScale to JumpCircle
+[+]Add Particle
+[+]Add FireFlies to Particle
+[+]Add FFCount to Particle
+[+]Add FFSize to Particle
+[+]Add None to Particle
+[+]Add SnowFlaketo Particle
+[+]Add Stareto Particle
+[+]Add Hearts to Particle
+[+]Add Dollars to Particle
+[+]Add Bloom to Particle
+[+]Add Count to Particle
+[+]Add Size to Particle
+[+]Add Physics to Particle
+[+]Add ChestStealerHUD
+[+]Add 3DChestHUD to ChestStealerHUD
+[+]Add Animations
+[+]Add None to Animations
+[+]Add Java1.7 to Animations
+[+]Add Smooth to Animations
+[+]Add Spin to Animations
+[+]Add Leaked to Animations
+[+]Add Stab to Animations
+[+]Add AnotherStab to Animations
+[+]Add Exhibition to Animations
+[+]Add Allah to Animations
+[+]Add SilenceFix to Animations
+[+]Add SwingSpeed to Animations
+[+]Add WorldTweaks
+[+]Add FogModify to WorldTweaks
+[+]Add FogStart to WorldTweaks
+[+]Add FogEnd to WorldTweaks
+[+]Add FogColor to WorldTweaks
+[+]Add Changtime to WorldTweaks
+[+]Add HitParticles
+[+]Add Stars to HitParticles
+[+]Add Hearts to HitParticles
+[+]Add Bloom to HitParticles
+[+]Add Color to HitParticles
+[+]Add Physics to HitParticles
+[+]Add Amount to HitParticles
+[+]Add LifeTime to HitParticles
+[+]Add Speed to HitParticles
+[+]Add Timer to Speed
+[※]Update NetEase3.15
+[※]Fix ChestStealer
+[※]Fix ChestStealerHUD
+[※]Fix Animation
+[※]Fix Scaffold MoveFix
+[※]Fix Scaffold Telly Modes
+[※]Fix ChestAura MoveFix and Precision
+[※]Recode Login System
+[※]Recode ArrayList
+[※]Recode Notifications
+[+]Add Cookie Login Storage
+[+]Add Py Executor
+[+]Fix Rotations
+[+]Fix TargetHud 
+[+]Fix Notification
+[+]Bypass Netease Check Cookie Interlock Ban
+
+2025-02-12-B16
+Add AutoClicker
+Add LeftClick to AutoClicker 
+Add leftMaxCps to AutoClicker
+Add Left Max CPS to AutoClicker
+Add Left Min CPS to AutoClicker 
+Add rightClick to AutoClicker
+Add RightClick to AutoClicker
+Add Right Max CPS to AutoClicker 
+Add Right Min CPS to AutoClicker
+Add Reach (Bedrock首发)
+Add Attack Range to Reach
+Add Build Range to Reach
+Add GApple (Bedrock首发)
+Add Health to GApple
+Add AirJump
+Add OnlyVoid to AirJump
+Add SafeWalk (Bedrock首发)
+Add AirSafe to SafeWalk
+Add Spider (Bedrock首发)
+Add Speed to Spider
+Add Step
+Add Down to Step
+Add Step Height to Step
+Add Criticals
+Add NoHurtCam
+Add NoJumpDelay
+Add NoRotateSet
+Add FastPlace
+Add AirStuck
